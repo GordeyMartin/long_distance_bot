@@ -1,9 +1,4 @@
 # long_distance_bot
-This project is a Telegram bot designed to assist individuals in maintaining long-distance relationships, providing support to partners who may be in different time zones and facing challenges in coordinating their communication due to time differences. 
-
-Project Description:
----------------------
-
 **Long-Distance Relationship Support Telegram Bot**
 
 This project is a Telegram bot designed to assist individuals in maintaining long-distance relationships, providing support to partners who may be in different time zones and facing challenges in coordinating their communication due to time differences. The bot aims to bridge the gap caused by varying time zones, ensuring that partners can connect, share messages, and maintain a sense of closeness, even when one of them is experiencing nighttime.
