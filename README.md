@@ -8,7 +8,7 @@ Key Features:
 - Provides personalized greetings based on the time of day, such as "Good morning," "Good day," or "Good evening."
 - Offers a convenient way for partners to exchange loving messages and expressions of affection.
 - Responds with empathy and understanding to help partners feel connected, regardless of the time difference.
-- Integrates with Google Calendar to help users schedule and coordinate virtual meetups and important events.
+- Integrates with Google Calendar to help users schedule and coordinate virtual meetups and important events. (NOT FINISHED)
 - Supports interactions through Telegram's user-friendly interface, making it easy for couples to stay connected.
 
 Whether it's sending a comforting message during nighttime or planning future interactions, the Long-Distance Relationship Support Telegram Bot serves as a digital companion for couples separated by geographical distances, ensuring that love and connection remain strong, regardless of time zone challenges.
